@@ -19,3 +19,9 @@
 - Suport tecnic
 - Muntatge d'oficines
 - Donar d'alta a les empreses
+## Idiomes
+| Idioma   | Nivell |
+|----------|--------|
+| Català   | Natiu  | 
+| Castella | Natiu  |
+| Angles   | B2     |
